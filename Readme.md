@@ -6,4 +6,5 @@ This the another description of the demo repo
 
 This is the change of he file
 
-1. Open the index.html in new directory
+1. Open the index.html in new directory 
+2. Get mor explain about the error
